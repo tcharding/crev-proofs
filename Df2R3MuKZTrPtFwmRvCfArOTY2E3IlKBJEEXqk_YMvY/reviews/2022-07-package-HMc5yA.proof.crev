@@ -71,3 +71,28 @@ comment: |-
 rzpgQlryFivPeaOhYxAzh4engeQFqJrhd9sV03nsPaZ7QWlNm1rl8QHgbEoO0TB4-xYTTVR44mRTUyuJMJfTDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-14T15:39:47.729561169+10:00"
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: "https://github.com/tcharding/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: secp256k1
+  version: 0.23.3
+  revision: 3f99ae8f1f0ae345c428ea10ae09ad36434e1b1d
+  digest: TCAwYy2n6yEYKkDSOAcsgnEWv1dNCJhDwOij5QmvlAY
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+comment: |-
+  I have been working six months now on crates in the github.com/rust-bitcoin organisation, to the
+  best of my knowledge this crate is secure. 
+----- SIGN CREV PROOF -----
+dSIAuxYIdEKfIztR50l7vvMP13bJtm0-By2hTFfHQDtTHg1angBvNafpVVJ7TLKaOn4_s8OZDqFplsQodqhOBw
+----- END CREV PROOF -----
+
