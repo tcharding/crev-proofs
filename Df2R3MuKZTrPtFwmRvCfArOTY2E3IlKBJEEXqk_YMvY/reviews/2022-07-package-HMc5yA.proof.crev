@@ -96,3 +96,28 @@ comment: |-
 dSIAuxYIdEKfIztR50l7vvMP13bJtm0-By2hTFfHQDtTHg1angBvNafpVVJ7TLKaOn4_s8OZDqFplsQodqhOBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-14T15:40:59.574210323+10:00"
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: "https://github.com/tcharding/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitcoin
+  version: 0.28.1
+  revision: 219aa5926a7f24969597b185745481e2270e5b28
+  digest: 12vUZ4T2PFXRW-7Xkk1bt_bYF8zyJD8zk_jRVJKPhtg
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I have been working six months now on crates in the github.com/rust-bitcoin organisation, to the
+  best of my knowledge this crate is secure. 
+----- SIGN CREV PROOF -----
+iESdIkn9sKNubaI6BOn9xjP7GfWrpCGUJOsSGxGzAadbN8c3Mw-u2CEa3S1Cx_18FDLthWJUM-7jcD9CLSarCQ
+----- END CREV PROOF -----
+
