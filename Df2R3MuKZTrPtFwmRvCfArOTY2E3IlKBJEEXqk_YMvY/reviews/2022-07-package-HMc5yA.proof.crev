@@ -21,3 +21,28 @@ comment: |-
 chcYZkiEUC5ZF-T_9fYQJM97BELufC6qfdHO1BkIuRiH1MYcWqflS5fzlnDhUjWBbd-5HeI0hDfzvFyEXgfMCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-14T15:34:31.282325467+10:00"
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: "https://github.com/tcharding/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bech32
+  version: 0.8.1
+  revision: d5ad6bd1c0e6e312710b82294493b227ac62d896
+  digest: WOms1jNMUgYbMzCLMHoMOhXA7gbig26EtynM98Ypg-U
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Simple crate for converting to and from bech32 format. Code is clean and to the best of my
+  knowledge secure.
+----- SIGN CREV PROOF -----
+_QMqM7C7j9QuftmeShtcrl0dvLhA5PW1wkLC8iCeH0_ivwQAWDFy2vPMstYa8IpBCFD8PPO2oayaCq8Zn3_dDQ
+----- END CREV PROOF -----
+
