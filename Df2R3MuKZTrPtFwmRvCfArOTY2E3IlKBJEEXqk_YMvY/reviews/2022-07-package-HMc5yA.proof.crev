@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-14T15:08:34.037470561+10:00"
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: "https://github.com/tcharding/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitcoinconsensus
+  version: 0.19.0-3
+  digest: RJH8dElCCuWLjtE8HnEWzBFsXFj2jruw75OmbzI_eg4
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I am the current maintainer (but not the original author), this crate is sound to the best of my knowledge
+----- SIGN CREV PROOF -----
+chcYZkiEUC5ZF-T_9fYQJM97BELufC6qfdHO1BkIuRiH1MYcWqflS5fzlnDhUjWBbd-5HeI0hDfzvFyEXgfMCw
+----- END CREV PROOF -----
+
