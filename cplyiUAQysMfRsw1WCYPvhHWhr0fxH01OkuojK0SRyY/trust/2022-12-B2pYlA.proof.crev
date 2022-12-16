@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-12-16T12:53:49.498055335+11:00
+from:
+  id-type: crev
+  id: cplyiUAQysMfRsw1WCYPvhHWhr0fxH01OkuojK0SRyY
+  url: https://github.com/tcharding/crev-proofs
+ids:
+- id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+gdcBADIb2MTJMxd8wgsMidsfDJtrFEpC_W3j8fPsWI6Lw1NGubeNqaOAVAsUgoLKxazAVakKncu-O-wJIZnOAQ
+----- END CREV PROOF -----
+
