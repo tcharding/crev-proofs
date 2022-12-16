@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-12-16T14:21:45.836518464+11:00
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+package:
+  source: https://crates.io
+  name: byteorder
+  version: 0.5.3
+  digest: do3vNN-pLFFLWm6Z7HFge9M7OxLHE5KGZP-FyfGNX6M
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+2A6ZXpouEvRq884UkTZDvfa_B78R7TpViosIuUmP0NeFbM3K4Pf53vW5hBfQ4_5bXJLsnZ5YI5HqCa8P3kw5AA
+----- END CREV PROOF -----
+
