@@ -49,3 +49,20 @@ trust: high
 _Vry8BkXiVoEssQbXPkZT4Raw2qZ46HaWMOSMOsm4WpvzdcRMiEuBqkASpUGqP-zB7mZil2rj9i-dqvIEH68CA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-12-16T13:54:50.658465729+11:00
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+ids:
+- id-type: crev
+  id: AOdw0m1s0DwuXFi3B2Juka2Wnx1LjJPD5qo3IfYTtlA
+  url: https://github.com/apoelstra/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+HruBjsmJS6fvusYVDHmZVqvHoR7YrZ9YPViJ3QvFSrg2fvJ1wQTVh-ZEyUotz3fKJjdYHRJ7vuC4VbBy9WPnBw
+----- END CREV PROOF -----
+
