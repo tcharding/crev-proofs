@@ -90,3 +90,27 @@ comment: |-
 dxecaBy4xKafg5CRaRdo4dxTDUSSwK4sXLQXT8iUh0QwgY-p2esxFYFst-eThoEFyELfC6T0BfYECECGnlKTCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-12-16T14:53:43.887174914+11:00
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+package:
+  source: https://crates.io
+  name: secp256k1
+  version: 0.24.2
+  revision: 959bd2553606247cabe104764e867455226fb129
+  digest: w2tblJMyY0C3Llri3OFFmJUjjd9GSH3e22JH2JtR2T0
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  This version is secure to the best of my knowledge
+----- SIGN CREV PROOF -----
+mQ-mDNUG-KHNEdvJvu4CK0lZUx2-rKNu6D7Qh8zr79xOUoByOQtdWQb5iznrrxf6hYdRJSfheEQbH4gkh7QcBQ
+----- END CREV PROOF -----
+
