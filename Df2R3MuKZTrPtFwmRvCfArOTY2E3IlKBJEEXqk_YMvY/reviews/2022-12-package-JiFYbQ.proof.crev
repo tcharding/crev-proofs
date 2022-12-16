@@ -43,3 +43,26 @@ comment: |-
 Ox7NeL56PJ3gCmzqf9OWXqPc7LqjHLeIUjV4b5w5mWVpkhd3kaq2nJuix98vM6zYnedls5c2ckLi2YQGUTKWDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-12-16T14:40:15.677854114+11:00
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+package:
+  source: https://crates.io
+  name: byteorder
+  version: 0.5.3
+  digest: do3vNN-pLFFLWm6Z7HFge9M7OxLHE5KGZP-FyfGNX6M
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  I spent about half an hour looking over this small crate, LGTM.
+----- SIGN CREV PROOF -----
+xwGskshgw0TqAnqwOyYS-Eg4zo0MyXvWHW0GMMWbdq1zTjxUa2VILcxaUeJPjdAEgTwvxC1mQ_VGs0xJUt84Cw
+----- END CREV PROOF -----
+
