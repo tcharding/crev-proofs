@@ -66,3 +66,27 @@ comment: |-
 xwGskshgw0TqAnqwOyYS-Eg4zo0MyXvWHW0GMMWbdq1zTjxUa2VILcxaUeJPjdAEgTwvxC1mQ_VGs0xJUt84Cw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-12-16T14:51:46.936247086+11:00
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+package:
+  source: https://crates.io
+  name: bech32
+  version: 0.9.1
+  revision: d12513f1e3768a7f2a2e1b4d650139eb92a4ae9b
+  digest: 7yaW86kVVcJy47xOZTEBJ3MFhuuITbOjaE2amlDY2mY
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Performs as advertised, on obvious flaws IMO
+----- SIGN CREV PROOF -----
+dxecaBy4xKafg5CRaRdo4dxTDUSSwK4sXLQXT8iUh0QwgY-p2esxFYFst-eThoEFyELfC6T0BfYECECGnlKTCg
+----- END CREV PROOF -----
+
