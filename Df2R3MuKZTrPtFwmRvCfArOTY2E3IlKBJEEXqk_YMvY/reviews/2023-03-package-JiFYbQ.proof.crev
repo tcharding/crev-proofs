@@ -71,3 +71,27 @@ comment: |-
 sOEHYnBrvroH8lsJ9ZqCLZ__ypnssCt5NUu0z0Qi9TD3HCuwERiiOjKkE38FVRkB1v-RFfizZlk8L7Q-hTJ8Cw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-03-21T14:55:08.844304678+11:00
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+package:
+  source: https://crates.io
+  name: bitcoinconsensus
+  version: 0.20.2-0.5.0
+  revision: eb3049ef08a32028b5538ac0acea8b16cb75bb07
+  digest: 87kQvGw3QLNpxEWMOSu3hitL8b9dENL4BAvel12x26U
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  This crate is a very thin layer on top of code from Bitcoin Core.
+----- SIGN CREV PROOF -----
+gH75SL9pW0-2_ryzmTdYYUgnt98Mtt7DYxHwPwwdAm7cU_3LICxVQY0bWea48Ss15uh9CChpvAe6Oh-xWZLRBA
+----- END CREV PROOF -----
+
