@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-03-21T14:30:08.352566167+11:00
+from:
+  id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+package:
+  source: https://crates.io
+  name: secp256k1
+  version: 0.27.0
+  revision: d7389984863cdb2064ecc1f52ce1988a368e2e59
+  digest: ZCqPO_xcfzJi3TaZmmRVcn9lR7-7eRWUA2TMic2IK3w
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  "I am not a cryptographer but to the best of my knowledge this crate is sound. (I've been working on maintaining this crate for the last 12 months.)"
+----- SIGN CREV PROOF -----
+x14U1erI6ZKWxrhSwTxLNoks8lg800XFkWIi9UGGXhAQAM0jvJRfTW3ZHcir88HIfPss1YZ6O26Bi-RR3-XbCA
+----- END CREV PROOF -----
+
